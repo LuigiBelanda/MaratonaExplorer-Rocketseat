@@ -1,4 +1,4 @@
-<img src="https://github.com/LuigiBelanda/MaratonaExplorer-Rocketseat/maratona.png">
+<img src="https://github.com/LuigiBelanda/MaratonaExplorer-Rocketseat/blob/master/maratona.png">
 
 <h1 align=center> Maratona Explorer - Rocketseat </h1>
 <h3 align=center> Códigos do projeto desenvolvido durante a Maratona Explorer feita pela Rocketseat </h3>
